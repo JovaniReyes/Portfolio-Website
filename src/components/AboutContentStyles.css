@@ -1,0 +1,44 @@
+.bio{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.bio .left-side{
+    text-align: center;
+    margin: auto;
+    pad: 1rem;
+    max-width: 350px;
+}
+.bio .left-side p{
+    margin: 1.2rem 0;
+
+}
+.bio .right-side{
+    max-width: 700px;
+}
+.right-side .img-container{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+.right-side .images{
+    max-width: 90%;
+    border: 1px solid #333;
+}
+.right-side .top-img{
+    grid-column: 1 / span 8;
+    grid-row: 1;
+    padding-top: 20%;
+    z-index: 6;
+}
+.right-side .bottom-img{
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 5;
+}
