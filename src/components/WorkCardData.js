@@ -6,7 +6,7 @@ const ProjectCardData = [
         imgsrc: card2,
         title: "Quadraped Robot",
         text: "Created from scratch using 3D printed parts and ordered components, uses a mini Arduino V3 to control the servos. ",
-        view: "wwwsite2"
+        view: "https://jovani-reyes-arduino.vercel.app/"
     },
     {
         imgsrc: card3,
