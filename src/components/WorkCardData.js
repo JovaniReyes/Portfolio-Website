@@ -4,7 +4,7 @@ import card3 from '../assets/Card3Img.png';
 const ProjectCardData = [
     {
         imgsrc: card2,
-        title: "Quadraped Robot",
+        title: "Quadruped Arduino Bot",
         text: "Created from scratch using 3D printed parts and ordered components, uses a mini Arduino V3 to control the servos. ",
         view: "https://jovani-reyes-arduino.vercel.app/"
     },
