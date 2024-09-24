@@ -14,7 +14,7 @@ const AboutContent = () => {
         <div className="bio">
             <div className="left-side">
                 <h1>Who Am I ?</h1>
-                <p>I was someone who had no coding experience prior to college, I learned most of my coding through personal studying by utilizing online tutorials and websites.</p>
+                <p>I had no coding experience prior to college; learning through personal projects has taught me the best reward comes from accomplishing a personal goal, that was once thought as being impossible to reach.</p>
                 <Link to="/Contact">
                     <button className="btn">Contact</button>
                 </Link>
