@@ -4,8 +4,8 @@ import React from 'react'
 //Import Link from react-router-dom, similar to an anchor tab but it changes the URL, and renders the new componenent specified in the 'to' prop without having to reload the whole page. This way different pages are actually different views rendered within the same HTML Page.
 import { Link } from 'react-router-dom';
 //Import Images from assets folder
-import About1 from '../assets/About1.jpg';
-import About2 from '../assets/About2.jpg';
+import About1 from '../assets/Q4-Legs.png';
+import About2 from '../assets/Q4-3Bodies.png';
 
 //Create AboutContent function
 const AboutContent = () => {

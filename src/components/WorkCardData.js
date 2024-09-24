@@ -1,5 +1,5 @@
 import card1 from '../assets/Card1Img.jpg';
-import card2 from '../assets/Card2Img.png';
+import card2 from '../assets/Q4-Assembled.png';
 import card3 from '../assets/Card3Img.png';
 const ProjectCardData = [
     {
